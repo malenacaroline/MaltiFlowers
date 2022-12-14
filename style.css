@@ -210,10 +210,6 @@ section .title {
   font-weight: 300;
   font-size: clamp(24px, 2em, 40px);
   font-family: "Century Gothic", sans-serif;
-  -webkit-animation: reveal 2s forwards;
-  -moz-animation: reveal 2s forwards;
-  -o-animation: reveal 2s forwards;
-  animation: reveal 2s forwards;
 }
 
 .benefits-container {
