@@ -879,6 +879,21 @@ footer nav a {
     margin-right: 0;
     margin-top: 24px;
   }
+
+  #compliments .container ul {
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+  }
+
+  #compliments .container li:not(:first-child) {
+    margin-top: 24px;
+  }
+
+  #aboutus h2 {
+    text-align: center;
+  }
+
 }
 
 @keyframes slideltr {
